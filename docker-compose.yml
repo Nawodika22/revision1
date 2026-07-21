@@ -4,4 +4,4 @@ services:
     build: .
     container_name: my-spring-app-pipeline
     ports:
-      - "8086:8082"
+      - "8086:8084"
