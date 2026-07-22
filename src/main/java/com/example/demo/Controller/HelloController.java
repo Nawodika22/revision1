@@ -10,7 +10,7 @@ public class HelloController {
     // Access this at: http://localhost:8080/hello
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello from my brand new Controller file! hii";
+        return "Hello from my brand new Controller file! hello world";
     }
 
     // Access this at: http://localhost:8080/hello/greet?name=YourName
